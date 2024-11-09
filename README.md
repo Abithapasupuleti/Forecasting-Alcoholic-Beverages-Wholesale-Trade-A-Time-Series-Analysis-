@@ -35,5 +35,4 @@ Forecasting models are evaluated using metrics - Root Mean Squared Error (RMSE):
 Mean Absolute Percentage Error (MAPE): Evaluates the percentage accuracy of predictions.
 
 
-**Outcome:**
-
+**Outcome:** This project forecasts key trends in U.S. wholesale sales for Beer, Wine, and Distilled Alcoholic Beverages. Leveraging time series analysis, the study reveals seasonal patterns and demand fluctuations, helping wholesalers optimize inventory, allocate resources efficiently, and enhance supply chain operations. 
