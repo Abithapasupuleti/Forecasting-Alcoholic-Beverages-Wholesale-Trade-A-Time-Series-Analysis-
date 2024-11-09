@@ -29,7 +29,7 @@ The project follows the eight-step forecasting process, applying several advance
    *Auto ARIMA:* Automates parameter selection for optimal ARIMA configuration. 
 
 
-Evaluation:
+4. Evaluation:
 
 Forecasting models are evaluated using metrics - Root Mean Squared Error (RMSE): Measures the average magnitude of forecast errors, 
 Mean Absolute Percentage Error (MAPE): Evaluates the percentage accuracy of predictions.
