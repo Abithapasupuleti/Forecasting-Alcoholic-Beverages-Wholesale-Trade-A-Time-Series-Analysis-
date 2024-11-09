@@ -16,17 +16,17 @@
 3. Applying Forecasting Methods:
 The project follows the eight-step forecasting process, applying several advanced models to analyze U.S. beverage sales data:
 
-  *Holt-Winters Exponential Smoothing:* Captures both seasonal and trend components.
+        *Holt-Winters Exponential Smoothing:* Captures both seasonal and trend components.
 
-  *Regression Models:* Linear Trend, Quadratic Trend, Seasonal Model, Linear Trend with Seasonality, Quadratic Trend with Seasonality, 
+        *Regression Models:* Linear Trend, Quadratic Trend, Seasonal Model, Linear Trend with Seasonality, Quadratic Trend with Seasonality, 
 
-  *ARIMA-Based Models:* AR(1) Model: Simple autoregressive approach.
+        *ARIMA-Based Models:* AR(1) Model: Simple autoregressive approach.
 
-  *ARIMA Model:* Autoregressive Integrated Moving Average for handling non-seasonal trends.
+        *ARIMA Model:* Autoregressive Integrated Moving Average for handling non-seasonal trends.
 
-  *Seasonal ARIMA:* Extends ARIMA to account for seasonality.
+        *Seasonal ARIMA:* Extends ARIMA to account for seasonality.
 
-  *Auto ARIMA:* Automates parameter selection for optimal ARIMA configuration. 
+        *Auto ARIMA:* Automates parameter selection for optimal ARIMA configuration. 
 
 
 Evaluation:
